@@ -27,8 +27,8 @@ O objetivo do projeto é unir **design, experiência do usuário e desenvolvimen
 - Preview em tempo real conforme os dados são preenchidos
 - Interface moderna, responsiva e acessível
 
-### 🔗 Demo
-**Frontend:** [Versel - PORTFOLIO GEN](httpuvu9x-ana-beatriz-ramos-projects.vercel.app/flights)  
+### 🔗 DEPLOY
+**Crie seu portfólio aqui:** [Versel - PORTFOLIO GEN](https://seu-portfolio-5hbzzblo7-ana-beatriz-ramos-projects.vercel.app)  
 ##
 
 ## 🛠️ Linguagens e ferramentas usadas
@@ -80,4 +80,5 @@ O objetivo do projeto é unir **design, experiência do usuário e desenvolvimen
 ✍️ Autora: Ana Beatriz Miranda Piveta Ramos 
 
 ##
+
 
