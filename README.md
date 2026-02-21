@@ -28,7 +28,7 @@ O objetivo do projeto é unir **design, experiência do usuário e desenvolvimen
 - Interface moderna, responsiva e acessível
 
 ### 🔗 DEPLOY
-**Crie seu portfólio aqui:** [Versel - PORTFOLIO GEN](https://seu-portfolio-5hbzzblo7-ana-beatriz-ramos-projects.vercel.app)  
+**Crie seu portfólio aqui:** [Vercel - PORTFOLIO GEN](https://seu-portfolio-5hbzzblo7-ana-beatriz-ramos-projects.vercel.app)  
 ##
 
 ## 🛠️ Linguagens e ferramentas usadas
